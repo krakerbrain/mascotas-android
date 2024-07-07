@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Huachitos</string>
+    <string name="animal_gender_image">genero del animal</string>
+    <string name="animal_image">imagen del animal</string>
+    <string name="send_email">Enviar Mail</string>
+    <string name="location_icon">Icono ubicacion</string>
+    <string name="breed_icon">tipo de animal\n</string>
+    <string name="age_icon">edad del animal</string>
+    <string name="gender_icon">icono genero</string>
+</resources>
